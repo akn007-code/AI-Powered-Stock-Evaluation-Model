@@ -18,7 +18,10 @@ The Streamlit application can be accessed here:
 
 The application allows users to select one of the companies included in the model or enter their own stock ticker. The results show the overall investment score as well as the individual scores behind it.
 
-**Demo video:** *(add here — see instructions below)*
+
+https://github.com/user-attachments/assets/fc690180-30ea-4470-86ea-a09d25e4ff40
+
+
 
 ## Project Objective
 
@@ -220,7 +223,7 @@ The purpose of showing the underlying numbers is to make the score easier to und
 
 The full development process, including the initial three-company test, the wider industry test that revealed the sector comparability problem, and the reasoning behind narrowing the project to five technology companies, is documented step by step in the Jupyter notebook included in this repository:
 
-`Stock_Evaluation_Model_Analysis.ipynb`
+[`Stock_Evaluation_Model_Analysis.ipynb`](./Stock_Evaluation_Model_Analysis.ipynb)
 
 This is the working notebook the project was built and tested in before the logic was moved into the standalone `data_pipeline.py` and `scoring_model.py` files used by the Streamlit app.
 
